@@ -9,7 +9,7 @@
 #define LED_PIN_BLUE 12
 
 
-// Variável para controle do estado do LED
+// Variável para controle do estado dos LEDs
 int estado_led = 0;
 
 // Função de callback para o timer
